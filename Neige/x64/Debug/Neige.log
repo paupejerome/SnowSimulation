@@ -1,0 +1,16 @@
+﻿  GameObject.cpp
+  GameSnow.cpp
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\GameSnow.cpp(171,47): warning C4267: 'initialisation' : conversion de 'size_t' en 'long', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\GameSnow.cpp(201,67): warning C4267: 'initialisation' : conversion de 'size_t' en 'long', perte possible de données
+  main.cpp
+  Player.cpp
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(109,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(110,57): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(110,36): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Snowflake.cpp
+  SnowflakeNoContact.cpp
+  SnowflakePool.cpp
+  SnowflakeRebound.cpp
+  SnowflakeSine.cpp
+  Génération de code en cours...
+  Neige.vcxproj -> D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\x64\Debug\Neige.exe

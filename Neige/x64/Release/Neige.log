@@ -1,0 +1,19 @@
+﻿  GameSnow.cpp
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\GameSnow.cpp(171,47): warning C4267: 'initialisation' : conversion de 'size_t' en 'long', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\GameSnow.cpp(201,67): warning C4267: 'initialisation' : conversion de 'size_t' en 'long', perte possible de données
+  Player.cpp
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(109,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(110,57): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\ProgAv_TP2_Neige\Player.cpp(110,36): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Snowflake.cpp
+  SnowflakeNoContact.cpp
+  SnowflakePool.cpp
+  SnowflakeRebound.cpp
+  SnowflakeSine.cpp
+  main.cpp
+  Génération de code en cours
+  11 of 161 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Neige.vcxproj -> D:\10-ProjetVolumineux\ProgAvance\TP2\ProgAv_TP2_Neige\x64\Release\Neige.exe
